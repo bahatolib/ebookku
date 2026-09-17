@@ -1,0 +1,32 @@
+{
+  "versi": 1,
+  "ebooks": [
+    {
+      "id": 1,
+      "judul": "Belajar HTML",
+      "penulis": "EbookKu",
+      "deskripsi": "Panduan dasar HTML untuk pemula.",
+      "cover": "📖",
+      "isi": "Selamat datang di EbookKu!\n\nHTML adalah bahasa yang digunakan untuk membuat struktur halaman web.\n\nIni adalah contoh isi ebook pertama kita.",
+      "update": "2026-09-17"
+    },
+    {
+      "id": 2,
+      "judul": "Belajar JavaScript",
+      "penulis": "EbookKu",
+      "deskripsi": "Pengenalan JavaScript untuk pemula.",
+      "cover": "💻",
+      "isi": "Selamat datang di ebook JavaScript!\n\nJavaScript digunakan untuk membuat halaman web menjadi interaktif.\n\nIni adalah contoh isi ebook kedua kita.",
+      "update": "2026-09-17"
+    },
+    {
+      "id": 3,
+      "judul": "Belajar Pemrograman",
+      "penulis": "EbookKu",
+      "deskripsi": "Pengenalan pemrograman untuk pemula.",
+      "cover": "💡",
+      "isi": "Selamat datang di ebook Belajar Pemrograman!\n\nPemrograman adalah proses membuat instruksi yang dapat dijalankan oleh komputer.\n\nBelajar sedikit demi sedikit adalah kunci untuk berkembang.",
+      "update": "2026-09-17"
+    }
+  ]
+}
