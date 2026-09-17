@@ -6,5 +6,12 @@
   "background_color": "#f4f4f4",
   "theme_color": "#222222",
   "description": "Kumpulan ebook favorit kamu",
-  "lang": "id"
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/ebookku/ebookku-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
